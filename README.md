@@ -4,7 +4,7 @@
 
 Tenho três anos de experiência como analista de suporte, atuando principalmente na resolução de problemas técnicos e no atendimento aos clientes. Estou empenhado em transicionar para a área de desenvolvimento front-end e, para isso, estou aprimorando minhas habilidades técnicas. Atualmente, dedico meu tempo a construir um portfólio robusto para exibir meus projetos e capacidades na área de front-end.
 
-#####Habilidades
+##### Habilidades
 
 
 HTML,CSS, Iniciando JavaScript e React!
@@ -15,12 +15,12 @@ HTML,CSS, Iniciando JavaScript e React!
 
 
 
-## Estatísticas do Perfil:
+##### Estatísticas do Perfil:
 
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=default)
 
 
-### Projeto 
+##### Projeto 
 
  Esse foi o meu primeiro projeto clique [aqui](https://exercicio-05-ebac.vercel.app/).
 
