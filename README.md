@@ -6,7 +6,7 @@ Tenho 3 anos de experiência como analista de suporte e estou focado em avançar
 ##Habilidades
 
 
-HTML CSS e Iniciando JavaScript:
+HTML,CSS, Iniciando JavaScript e React:
 
 ![image](https://github.com/Lostleleco/Lostleleco/assets/158625504/8f373b2a-a5a6-44d7-9517-c1e5b99c73ce)
 
