@@ -1,12 +1,13 @@
 ### Olá meu nome é Alex  👋
 
 ##### Sobre o Alex:
-Tenho 3 anos de experiência como analista de suporte e estou focado em avançar para a área de desenvolvimento Front End. Atualmente, estou trabalhando na construção do meu portfólio para destacar minhas habilidades e projetos na área.
+
+Tenho três anos de experiência como analista de suporte, atuando principalmente na resolução de problemas técnicos e no atendimento aos clientes. Estou empenhado em transicionar para a área de desenvolvimento front-end e, para isso, estou aprimorando minhas habilidades técnicas. Atualmente, dedico meu tempo a construir um portfólio robusto para exibir meus projetos e capacidades na área de front-end.
 
 ##Habilidades
 
 
-HTML,CSS, Iniciando JavaScript e React:
+HTML,CSS, Iniciando JavaScript e React!
 
 ![image](https://github.com/Lostleleco/Lostleleco/assets/158625504/8f373b2a-a5a6-44d7-9517-c1e5b99c73ce)
 
