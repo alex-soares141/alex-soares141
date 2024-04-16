@@ -1,2 +1,2 @@
-### Olá meu nome é Alex Soares de Oliveira 👋
+### Olá meu nome é Alex  👋
 
