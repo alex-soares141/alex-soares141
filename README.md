@@ -1,10 +1,10 @@
 ### Olá meu nome é Alex  👋
 
-##### Sobre o Alex:
+##### Sobre o Mim:
 
 Tenho três anos de experiência como analista de suporte, atuando principalmente na resolução de problemas técnicos e no atendimento aos clientes. Estou empenhado em transicionar para a área de desenvolvimento front-end e, para isso, estou aprimorando minhas habilidades técnicas. Atualmente, dedico meu tempo a construir um portfólio robusto para exibir meus projetos e capacidades na área de front-end.
 
-##Habilidades
+#####Habilidades
 
 
 HTML,CSS, Iniciando JavaScript e React!
