@@ -5,7 +5,7 @@
 Tenho três anos de experiência como analista de suporte, atuando principalmente na resolução de problemas técnicos e no atendimento aos clientes. Estou empenhado em transicionar para a área de desenvolvimento front-end e, para isso, estou aprimorando minhas habilidades técnicas. Atualmente, dedico meu tempo a construir um portfólio robusto para exibir meus projetos e capacidades na área de front-end.
 
 ##### Habilidades
-Ao longo da minha etapa estou aprendendo e praticando:
+Ao longo da minha jornada estou aprendendo e praticando:
 
 HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
 
