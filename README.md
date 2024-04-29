@@ -13,6 +13,10 @@ HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
 
 ##### Linguagens utilizadas ate o momento:
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostleleco&layout=compact&theme=dracula)
+##### Estatísticas do Perfil:
+
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=default)
+
 
 
 
