@@ -19,9 +19,6 @@ HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
 
 
 
-##### Estatísticas do Perfil:
-
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=default)
 
 
 
