@@ -9,7 +9,10 @@ Ao longo da minha etapa estou aprendendo e praticando:
 
 HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
 
-![image](https://github.com/Lostleleco/Lostleleco/assets/158625504/aa29c0ae-32a3-41ea-9f44-b96562aa66fd)
+![image](https://github.com/Lostleleco/Lostleleco/assets/158625504/aa29c0ae-32a3-41ea-9f44-b96562aa66fd) 
+
+##### Linguagens utilizadas ate o momento:
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lostleleco&layout=compact&theme=dracula)
 
 
 
@@ -19,6 +22,7 @@ HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
 ##### Estatísticas do Perfil:
 
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=default)
+
 
 
 
