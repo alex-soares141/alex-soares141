@@ -7,7 +7,10 @@ Tenho três anos de experiência como analista de suporte, atuando principalment
 ##### Habilidades
 Ao longo da minha jornada estou aprendendo e praticando:
 
-HTML,CSS,JavaScript,Jquery,React,Bootstrap e Typescript!
+HTML,CSS,JavaScript!
+
+#### Utilizando Bibliotecas:
+Jquery,React,Bootstrap e Typescript!
 
 ![image](https://github.com/Lostleleco/Lostleleco/assets/158625504/aa29c0ae-32a3-41ea-9f44-b96562aa66fd) 
 
