@@ -8,16 +8,19 @@ Tenho três anos de experiência como analista de suporte, atuando principalment
 Ao longo da minha jornada estou aprendendo e praticando:
 
 
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+ 
 
 
 #### Utilizando Bibliotecas:
-- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+#### Em breve irei utilizar:
+-  ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white) ![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white) ![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=grunt&logoColor=white)
+ ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+ ![Ajax](https://img.shields.io/badge/-Ajax-336791?style=flat-square&logo=ajax&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+
+
 
 
  
