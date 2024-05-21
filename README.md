@@ -28,6 +28,8 @@ Ao longo da minha jornada estou aprendendo e praticando:
 #### Entre em Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_soares_oliveira/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:alexsoaresoliveira063@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-%230078D4.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alex_soares_oliveira@hotmail.com)
+
 
 
 
