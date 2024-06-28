@@ -25,7 +25,7 @@ Ao longo da minha jornada estou aprendendo e praticando:
 ##### Estatísticas do Perfil:
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)
 ##### Linguagens utilizadas ate o momento:
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
+
 #### Entre em Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_soares_oliveira/)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white)](mailto:alexsoaresoliveira063@gmail.com)
