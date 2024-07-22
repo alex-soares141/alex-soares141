@@ -2,7 +2,9 @@
 
 ##### Sobre o Mim:
 
-Tenho três anos de experiência como analista de suporte, atuando principalmente na resolução de problemas técnicos e no atendimento aos clientes. Estou empenhado em transicionar para a área de desenvolvimento front-end e, para isso, estou aprimorando minhas habilidades técnicas. Atualmente, dedico meu tempo a construir um portfólio robusto para exibir meus projetos e capacidades na área de front-end.
+Meu nome é Alex sou analista de suporte com três anos de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Estou na reta final do curso de Análise e Desenvolvimento de Sistemas, com previsão de conclusão para Julho de 2024. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor front-end qualificado, com estudos intensivos na EBAC.
+
+Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
 ##### Habilidades
 Ao longo da minha jornada estou aprendendo e praticando:
