@@ -1,4 +1,4 @@
-## Seja Bem vindos(as)!
+## Seja Bem vindos!
 
 
 ![image](https://github.com/user-attachments/assets/118027d0-78e8-41bf-981c-abea09ea851a)
