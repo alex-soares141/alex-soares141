@@ -5,15 +5,15 @@
 
 
 
-### Olá meu nome é Alex  👋
+## Olá meu nome é Alex  👋
 
-##### Sobre o Mim:
+### Sobre o Mim:
 
 Meu nome é Alex sou analista de suporte com três anos de experiência na área onde aprendi muito sobre resolução de problemas e trabalho em equipe. Graduado em Análise e Desenvolvimento de Sistemas. Tenho focado todo o meu tempo e energia em me tornar um desenvolvedor front-end qualificado, com estudos intensivos na EBAC.
 
 Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
-##### Habilidades
+## Habilidades
 Ao longo da minha jornada estou aprendendo e praticando:
 
 
@@ -43,11 +43,13 @@ Ao longo da minha jornada estou aprendendo e praticando:
 
 
  
-##### Estatísticas do Perfil:
+## Estatísticas do Perfil:
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)
 ##### Linguagens utilizadas ate o momento:
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
-#### Entre em Contato:
+
+
+## Entre em Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_soares_oliveira/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-%230078D4.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alex_soares_oliveira@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-soares-de-oliveira-669885308/)
