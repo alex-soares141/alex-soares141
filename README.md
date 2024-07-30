@@ -55,7 +55,7 @@ Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolv
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_soares_oliveira/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-%230078D4.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alex_soares_oliveira@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-soares-de-oliveira-669885308/)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23232F2A.svg?&style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5533988997674)
 
 
 
