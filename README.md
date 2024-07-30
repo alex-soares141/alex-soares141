@@ -51,6 +51,15 @@ Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolv
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
 
 
+## Projetos :
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Calculadora_vue&theme=dark)](https://github.com/lostleleco/Calculadora_vue) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Clone_disneyplus&theme=dark)](https://github.com/lostleleco/Clone_disneyplus%20Public)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=todo-vue&theme=dark)](https://github.com/lostleleco/todo-vue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=MX_Store&theme=dark)](https://github.com/lostleleco/MX_Store)
+
+
+
+
 ## Entre em Contato:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alex_soares_oliveira/)
 [![Hotmail](https://img.shields.io/badge/Hotmail-%230078D4.svg?&style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alex_soares_oliveira@hotmail.com)
