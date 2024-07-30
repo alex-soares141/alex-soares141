@@ -14,7 +14,7 @@ Meu nome é Alex sou analista de suporte com três anos de experiência na área
 Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
 ## Habilidades
-Ao longo da minha jornada estou aprendendo e praticando:
+### Ao longo da minha jornada estou aprendendo e praticando:
 
 
  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
@@ -45,7 +45,9 @@ Ao longo da minha jornada estou aprendendo e praticando:
  
 ## Estatísticas do Perfil:
 ![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)
-##### Linguagens utilizadas ate o momento:
+
+
+## Linguagens utilizadas ate o momento:
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
 
 
