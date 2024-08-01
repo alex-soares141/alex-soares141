@@ -55,7 +55,7 @@ Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolv
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Calculadora_vue&theme=dark)](https://github.com/lostleleco/Calculadora_vue) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Clone_disneyplus&theme=dark)](https://github.com/lostleleco/Clone_disneyplus%20Public)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=todo-vue&theme=dark)](https://github.com/lostleleco/todo-vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=MX_Store&theme=dark)](https://github.com/lostleleco/MX_Store)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Calculadora_IMC&theme=dark)](https://github.com/lostleleco/Calculadora_IMC)
 
 
 
