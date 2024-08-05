@@ -44,11 +44,11 @@ Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolv
 
  
 ## Estatísticas do Perfil:
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)
-
-
-## Linguagens utilizadas ate o momento:
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
+
+
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)               
+
 
 
 ## Projetos :
