@@ -13,6 +13,8 @@ Meu nome é Alex sou analista de suporte com três anos de experiência na área
 
 Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolvimento de software, mas também em colaboração eficaz com colegas e stakeholders. Estou entusiasmado para aplicar meu conhecimento e contribuir de maneira positiva em projetos desafiadores. Estou à disposição para novas oportunidades e para compartilhar o que aprendi até agora!
 
+Veja meu portifolio: https://portifolio-eight-tau-87.vercel.app/
+
 ## Habilidades
 ### Ao longo da minha jornada estou aprendendo e praticando:
 
