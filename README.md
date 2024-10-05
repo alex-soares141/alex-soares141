@@ -46,10 +46,8 @@ Veja meu portifolio: https://portifolio-eight-tau-87.vercel.app/
 
  
 ## Estatísticas do Perfil:
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
-
-
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)               
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
+         
 
 
 
