@@ -16,26 +16,14 @@ Ao longo da minha jornada, adquiri habilidades valiosas não apenas em desenvolv
 Veja meu portifolio: https://portifolio-eight-tau-87.vercel.app/
 
 ## Habilidades
-### Ao longo da minha jornada estou aprendendo e praticando:
 
-
- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-
- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
- 
- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
- 
- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-
-#### Utilizando Bibliotecas e Pré-processadores CSS:
- ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
+ ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) 
   ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
  
  ![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white) ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white) 
   ![Grunt](https://img.shields.io/badge/-Grunt-FBA919?style=flat-square&logo=grunt&logoColor=white)
- 
  ![Ajax](https://img.shields.io/badge/-Ajax-336791?style=flat-square&logo=ajax&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) 
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=material-ui&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
 
  
 
@@ -46,17 +34,8 @@ Veja meu portifolio: https://portifolio-eight-tau-87.vercel.app/
 
  
 ## Estatísticas do Perfil:
-![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
+![Estatísticas do Perfil](https://github-readme-stats.vercel.app/api?username=lostleleco&show_icons=true&theme=dark)    ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lostleleco&layout=compact&theme=dark)
          
-
-
-
-## Projetos :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Calculadora_vue&theme=dark)](https://github.com/lostleleco/Calculadora_vue) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Clone_disneyplus&theme=dark)](https://github.com/lostleleco/Clone_disneyplus%20Public)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=todo-vue&theme=dark)](https://github.com/lostleleco/todo-vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lostleleco&repo=Calculadora_IMC&theme=dark)](https://github.com/lostleleco/Calculadora_IMC)
-
 
 
 
